@@ -8050,4 +8050,3 @@ Orandi Harris
 - [Anaïs Rolin](https://github.com/Nanasse)
 - [Emanuel Silva](https://github.com/Jataki)
 - [Maciej Mazurek](https://github.com/mazurek-maciej)
-- [Norrapat Nimmanee](https://github.com/icharge)
